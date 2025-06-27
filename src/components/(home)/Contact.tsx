@@ -6,7 +6,7 @@ export default function ContactSection() {
       <div className="max-w-[1060px] mx-auto px-4 text-center max-w-2xl">
         {/* Header */}
         <h2 className="md:text-[54px] text-[45px] font-normal mb-0">Contact me</h2>
-        <a href='mailto:rafialakhvi@gmail.com' className="text-[#FF7C2B] mb-1 text-[22px] font-light">rafialakhvi@gmail.com</a>
+        <a href='mailto:rafialakhvi@gmail.com' className="text-[#FF7C2B] mb-1 text-[22px] font-light">poolnexample@gmail.com</a>
         <p className="text-[#B2B2B2] mb-16 text-[22px] font-light">Feel free to contact me with any inquiries and questions !!</p>
 
         {/* Form */}
@@ -38,7 +38,7 @@ export default function ContactSection() {
         {/* Social Links */}
         <div className="flex justify-center space-x-6 mt-14">
           <a
-            href="https://www.behance.net/rafialakhvi"
+            href="#"
             aria-label="Behance"
           >
             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -47,7 +47,7 @@ export default function ContactSection() {
             </svg>
           </a>
           <a
-            href="https://www.linkedin.com/in/rafia-mehmood-5bb795229/"
+            href="#"
             aria-label="LinkedIn"
           >
             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">

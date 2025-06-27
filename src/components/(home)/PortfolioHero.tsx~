@@ -14,7 +14,7 @@ export default function PortfolioHero() {
                                     <Image
                                         src={img.src}
                                         alt="Portfolio person"
-                                        layout="fill"
+                                        
                                         objectFit="cover"
                                         className="object-center roun !relative   px-5 "
                                     />

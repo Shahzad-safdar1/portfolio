@@ -15,7 +15,7 @@ export default function CaseStudySection() {
                     </svg>
                 </div>
                 <h2 className="md:text-[28px] text-[20px] font-medium">Ecommerce UI/UX Case Study</h2>
-                <p className="md:text-[28px] text-[20px] font-light">rafialakhvi@gmail.com</p>
+                <p className="md:text-[28px] text-[20px] font-light">poolnexample@gmail.com</p>
             </div>
         </section>
     );

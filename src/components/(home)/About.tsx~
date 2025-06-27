@@ -8,7 +8,7 @@ const AboutMe: React.FC = () => {
                 <h1 className="md:text-[54px] text-[35px] font-normal mb-4 text-black">About me</h1>
 
                 <p className="max-w-full mb-16 md:text-[22px] text-[20px] text-black font-light">
-                    I am Melin Halstead, a UI/UX and Graphic Designer with a passion for creating user-friendly and visually compelling digital experiences. With a background in Computer Science from Nova Tech Institute, I specialize in designing intuitive web and mobile interfaces that enhance usability and engagement.
+                    I am Alex Morgan, a UI/UX and Graphic Designer with a passion for creating user-friendly and visually compelling digital experiences. With a background in Computer Science from Nova Tech Institute, I specialize in designing intuitive web and mobile interfaces that enhance usability and engagement.
 
 
                 </p>
